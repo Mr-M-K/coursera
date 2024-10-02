@@ -1,5 +1,5 @@
 # coursera
 
-## Editing the file
+## Description
 
-Its a markdown file in this repository.
+This repository contains my final assignment for the Tools for Data Science (part of IBM Data Science course).
